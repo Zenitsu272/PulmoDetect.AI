@@ -1,9 +1,7 @@
+tensorflow==2.19.0
 streamlit
+pandas
+numpy
+scikit-learn
 pillow
 requests
-numpy
-tensorflow
-pandas
-scikit-learn
-matplotlib
-
